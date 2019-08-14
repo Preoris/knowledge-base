@@ -6,5 +6,8 @@
 * -D : enables interactive debugger
 * -f : put before a file commands are to be read from. 
 
+## String comparison
+if {$var eq "strin} {...}
+
 # recommended books
 http://shop.oreilly.com/product/9781565920903.do

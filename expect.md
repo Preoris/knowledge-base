@@ -7,7 +7,7 @@
 * -f : put before a file commands are to be read from. 
 
 ## String comparison
-if {$var eq "strin} {...}
+if {$var eq "string"} {...}
 
 # recommended books
 http://shop.oreilly.com/product/9781565920903.do

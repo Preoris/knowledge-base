@@ -1,4 +1,4 @@
-#still to sort away
+# still to sort away
 ## Window movement
 Key combination | result
 ----------------|----------------------
@@ -8,3 +8,6 @@ prefix-: | enter command mode
 command | result
 ---------------------------------|----------------------
 join-pane -h -t destination-pane | move current window to the given pane aligned horizontally
+
+# interesting links
+https://guides.github.com/features/mastering-markdown/

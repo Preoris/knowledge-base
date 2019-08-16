@@ -1,0 +1,1 @@
+grep -flags pattern path

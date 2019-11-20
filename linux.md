@@ -1,2 +1,2 @@
 # create symbolic links
-ln -s <target> <name of link>
+ln -s [target] [name of link]
